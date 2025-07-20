@@ -4,9 +4,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
-</p>
+
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
@@ -34,6 +32,9 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
