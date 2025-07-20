@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
+<p align="center>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
@@ -58,7 +59,7 @@
 <a href="https://go.dev/"><code><img height="15" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="15" src="./images/docker.png"></code></a>
 
-
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoneyTianA)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
