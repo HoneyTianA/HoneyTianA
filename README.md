@@ -79,18 +79,25 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyTianA&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
+<!--猫咪电脑图片-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
+    <img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
 </p>
+
+<!--奖杯-->
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=HoneyTianA&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
+
+<!--技术栈图片-->
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
+
+<!--个人主页-->
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/HoneyTianA"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
@@ -100,13 +107,11 @@
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoneyTianA&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTianA&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    
-</p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=HoneyTianA&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTianA&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+<!--The End图片-->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
