@@ -78,6 +78,10 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyTianA&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
+</p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
@@ -102,9 +106,7 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
-</p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
