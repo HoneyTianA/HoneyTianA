@@ -79,7 +79,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyTianA&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoneyTianA&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoneyTianA&theme=transparent&hide_border=true&layout=compact&range=all_time&langs_count=22" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTianA&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 <!--猫咪电脑图片-->
