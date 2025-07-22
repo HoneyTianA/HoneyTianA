@@ -79,6 +79,9 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyTianA&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=HoneyTianA&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTianA&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 <!--猫咪电脑图片-->
 <p align="center">
     <img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
@@ -108,8 +111,7 @@
     <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=HoneyTianA&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTianA&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 
 <!--The End图片-->
 <p align="center">
